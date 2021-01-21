@@ -463,6 +463,12 @@ height: 0;
   .input{
     width: 300px;
   }
+	.but{
+	max-width: 300px;	
+	}
+	.link{
+	max-width: 160px;
+	}
 }
 
   .btn2:hover{
